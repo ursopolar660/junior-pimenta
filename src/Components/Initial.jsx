@@ -4,7 +4,7 @@ function Initial() {
     return (
         <div className="flex flex-col md:flex-row justify-evenly items-center h-screen w-full border-2 border-[#373E4A] text-[#F5AF14] p-4">
             <img 
-                src="../../images/1.jpg" 
+                src="https://github.com/ursopolar660/junior-pimenta/blob/main/images/1.jpg" 
                 alt="Júnior Pimenta" 
                 className="h-48 w-48 md:h-60 md:w-60 rounded-full border-2 border-s-[#F5AF14] shadow-lg shadow-blue-900/50 border-[#373F50] object-cover" 
             />
