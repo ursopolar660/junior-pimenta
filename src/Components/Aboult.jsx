@@ -1,7 +1,6 @@
 import React from 'react';
 import CardSistemico from './CardSistemico';
 import CardDinheiro from './CardDinheiro';
-import CardFamiliar from './CardFamiliar';
 
 function Aboults() {
     return (
@@ -12,7 +11,6 @@ function Aboults() {
                 <div className='grid grid-cols-3 md:flex-row items-center text-[#DE8F2A] p-4'>
                     <CardSistemico />
                     <CardDinheiro />
-                    <CardFamiliar />
                     
                     
                     
