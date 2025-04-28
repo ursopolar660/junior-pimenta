@@ -3,6 +3,7 @@ import './App.css'
 import Aboults from './Components/Aboult'
 import WhatsAppButton from './Components/BtnWhatsapp'
 import Imersao from './Components/Imersao'
+import Footer from './Components/Footer'
 
 function App() {
 
@@ -12,6 +13,8 @@ function App() {
           <Initial />
           <Aboults />
           <Imersao />
+
+          <Footer />
           <WhatsAppButton />
       </div>
     </>
